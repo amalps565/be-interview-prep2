@@ -2,3 +2,9 @@
 CLAUDE.md
 WIKI.md
 Backend_Interview_Prep_Assignment.pdf
+
+target/
+.idea/
+*.iml
+.vscode/
+.env
